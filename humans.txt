@@ -1,16 +1,18 @@
+# Humans for good society
 # We are making a small change to show branching
+# We are good humans
+# Added after changing branch
 # humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    AlexBrown06 -- Developer -- <twitter>
 
 # THANKS
 
     <name>
 
 # TECHNOLOGY COLOPHON
-
     HTML5, CSS3
     jQuery, Modernizr
